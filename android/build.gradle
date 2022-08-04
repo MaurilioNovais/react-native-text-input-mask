@@ -27,7 +27,7 @@ android {
 
 buildscript {
     ext {
-        kotlinVersion = safeExtGet('kotlinVersion', '1.6.21')
+        kotlinVersion = '1.6.21'
     }
     repositories {
         jcenter()
